@@ -1,13 +1,11 @@
-# Cybersecurity handbook
+# Cybersecurity Revbits
 
-![Cover image](static/img/cover.jpg)
-_Image from [needpix.com](https://www.needpix.com/photo/download/963169/hacker-cyber-crime-banner-header-internet-computer-security-cyber-technology)_
+![Cover image](https://github.com/rapidbenjamin/cybersecurity-handbook/blob/main/static/img/revbits.png)
 
 Empowering you to stay safe in the digital world with One Beyond&#39;s Cybersecurity Handbook.
 
 ## Website
 
-This website is built using [Docusaurus 2](https://docusaurus.io/) and [generator-fast-documentation](https://github.com/UlisesGascon/generator-fast-documentation)
 
 ### Installation
 
